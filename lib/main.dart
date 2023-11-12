@@ -18,6 +18,7 @@ class Pomodoro extends StatelessWidget {
         )
       ],
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: 'Pomodoro',
         theme: ThemeClass.lightTheme,
         darkTheme: ThemeClass.darkTheme,
