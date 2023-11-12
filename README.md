@@ -1,12 +1,24 @@
-# pomodoro
+# Flutter pomodoro timer app
 
-- 디지털 시계 방식 디자인 [ ]
-- 시간에 따라 줄어드는 하얀 원 방식 추가 [ ]
-- 기본 25분 휴식 5분 (4세트) [ ]
-- 세트 완료 후 긴 휴식 15분 후 다시 초기화 [ ]
-- 화면 (Timer, Short Break, Long Break) [ ]
-- 각 화면에서 시간 설정가능하게 추가 [ ]
-- 각 화면 끝나는 시간에 부담없는 소리 재생 or 진동 [ ]
-- Daily Data 기록 저장가능하게 ? (Optional) [ ]
+<div>
+<div style="display: flex;">
+<img style="margin-right: 5px;" width="240" height="500" src="https://github.com/JongminChoi98/pomodoro/assets/138505370/913d1c4a-3735-4872-a3b0-bf09de7e64bb">
+<img style="margin-right: 5px;" width="240" height="500" src="https://github.com/JongminChoi98/pomodoro/assets/138505370/8f5e1386-b615-4e85-88b8-8d2e0a1420db">
+</div>
 
-- 디자인은 심플하고 편안하게 설정 [ ]
+<br>
+
+<div>
+<div style="display: flex;">
+<img style="margin-right: 5px;" width="240" height="500" src="https://github.com/JongminChoi98/pomodoro/assets/138505370/8a720e1b-a6a9-469a-a4dc-9e97144cb59b">
+<img style="margin-right: 5px;" width="240" height="500" src="https://github.com/JongminChoi98/pomodoro/assets/138505370/edf8cf94-f220-4b39-8933-d94ca723005a">
+</div>
+
+<br>
+
+<div>
+<div style="display: flex;">
+<img style="margin-right: 5px;" width="240" height="500" src="https://github.com/JongminChoi98/pomodoro/assets/138505370/70ceb4e9-506d-4218-836b-3ef28f18e02a">
+<img style="margin-right: 5px;" width="240" height="500" src="https://github.com/JongminChoi98/pomodoro/assets/138505370/3a3dc54e-f81d-437b-8778-874c7d3ebcd0">
+</div>
+
